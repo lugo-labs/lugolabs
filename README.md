@@ -13,4 +13,4 @@ ARMY
 big impact!
 big impact 2!
 
-![Visitor Count](https : //profile-counter.glitch.me/{lugo-labs}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{lugo-labs}/count.svg)

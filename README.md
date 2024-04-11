@@ -1,16 +1,11 @@
-# lugolabs.github.io
+#Security Analyst
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+#Education 
+NU 2020
+MASTERS CYB SEC WGU 2024-2025
 
-Alternatively, for H1 and H2, an underline-ish style:
+#WORK
+ARMY
 
-Alt-H1
-======
+ARMY
 
-Alt-H2
-------

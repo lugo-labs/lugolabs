@@ -13,4 +13,4 @@ ARMY
 big impact!
 big impact 2!
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=lugo-labs.portfolio&left_color=green&right_color=red)
+![Visitor Count](https : //profile-counter.glitch.me/{lugo-labs}/count.svg)

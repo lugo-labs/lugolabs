@@ -1,11 +1,15 @@
 #Security Analyst
 
-#Education 
+### Education 
 NU 2020
 MASTERS CYB SEC WGU 2024-2025
 
-#WORK
+### WORK
 ARMY
 
 ARMY
+
+### PROJECTS
+big impact!
+big impact 2!
 

@@ -1,5 +1,10 @@
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Test
-description: a bio on me.
+title: Portfolio 
+description: a passionate cyber security learner. 
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/

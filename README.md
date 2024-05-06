@@ -12,7 +12,8 @@ ARMY
 ### PROJECTS
 [Check out my Projects](/portfolio/projects/)
 
-<a href="/projects/pihole/">View the PiHole Project</a>
+<a href="/portfolio/projects/pihole/">View the PiHole Project</a>
+
 
 
 

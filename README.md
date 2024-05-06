@@ -10,7 +10,7 @@ ARMY
 ARMY
 
 ### PROJECTS
-big impact!
-big impact 2!
+[Check out my Projects](/portfolio/projects/)
+
 
 ![Visitor Count](https://profile-counter.glitch.me/{lugo-labs}/count.svg)<!DOCTYPE html>
